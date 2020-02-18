@@ -104,7 +104,7 @@
             </form><small>{{trans('file.Already have an account')}}? </small><a href="{{url('login')}}" class="signup">{{trans('file.LogIn')}}</a>
           </div>
           <div class="copyrights text-center">
-            <p>{{trans('file.Developed By')}} <a href="http://lion-coders.com" class="external">LionCoders</a></p>
+            <p>{{trans('file.Developed By')}} <a href="https://www.weanio.com/" class="external">Weanio Technologies</a></p>
           </div>
         </div>
       </div>
